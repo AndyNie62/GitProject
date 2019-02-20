@@ -1,4 +1,4 @@
-	package com.andy.pojo;
+package com.andy.pojo;
 
 public class Admin {
 
